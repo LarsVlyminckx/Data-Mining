@@ -12,3 +12,10 @@ Links of datasets:
   2. https://data.worldbank.org/indicator/SP.POP.TOTL (population)
   3. https://geojson-maps.ash.ms/ (geojson)
   4. https://developers.google.com/public-data/docs/canonical/countries_csv (country locations)
+
+Inhoud:
+  1. Presentatie: de powerpoint
+  2. Project tabellen: notebook met grafieken
+  3. Project-with-population: notebook met choroplet over temperatuur en popup met temperatuur EN populatie per land
+  4. Project: notebook met choroplet over temperatuur en popup met enkel temperatuur
+  5. ProjectPopulatie: notebook met choropleth over populatie
