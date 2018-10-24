@@ -11,3 +11,4 @@ Links of datasets:
   1. https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data (temperature)
   2. https://data.worldbank.org/indicator/SP.POP.TOTL (population)
   3. https://geojson-maps.ash.ms/ (geojson)
+  4. https://developers.google.com/public-data/docs/canonical/countries_csv (country locations)
